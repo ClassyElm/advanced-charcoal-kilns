@@ -1,6 +1,6 @@
 {
     "Name": "Advanced Charcoal Kiln",
-    "Description": "Takes longer to produce charcoal than the regular kiln, but it produces more charcoal per wood.",
+    "TranslationKey": "item.advanced-charcoal-kiln",
     "Price": 0,
     "ProvidesLight": false,
     "ReserveExtraIndexCount": 5,
