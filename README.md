@@ -6,7 +6,7 @@ This project holds the source code for the Advanced Charcoal Kilns mod for Stard
 * [Json Assets](https://www.nexusmods.com/stardewvalley/mods/1720)
 
 ## Translations
-Here is a list of languages the mod currently supports. If you would like to add translations, the localization files can be found [here](advanced-charcoal-kilns/tree/dev/[JA]%20Advanced%20Charcoal%20Kilns/i18n).
+Here is a list of languages the mod currently supports. If you would like to add translations, the localization files can be found [here](advanced-charcoal-kilns/tree/dev/[JA] Advanced Charcoal Kilns/i18n).
 |Language|Status|
 |-|-|
 |English|Full support|
