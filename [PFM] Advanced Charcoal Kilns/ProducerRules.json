@@ -1,0 +1,26 @@
+﻿[
+    {
+        "ProducerName": "Advanced Charcoal Kiln",
+        "InputIdentifier": "388",
+        "InputStack": 10,
+        "OutputIdentifier": "382",
+        "OutputStack": 4,
+        "MinutesUntilReady": 60,
+        "Sounds": [ "openBox" ],
+        "DelayedSounds": [ { "fireball": 50 } ],
+        "PlacingAnimation": "Fire",
+        "PlacingAnimationColorName": "White"
+    },
+    {
+        "ProducerName": "Advanced Charcoal Kiln",
+        "InputIdentifier": "709",
+        "InputStack": 2,
+        "OutputIdentifier": "382",
+        "OutputStack": 12,
+        "MinutesUntilReady": 60,
+        "Sounds": [ "openBox" ],
+        "DelayedSounds": [ { "fireball": 50 } ],
+        "PlacingAnimation": "Fire",
+        "PlacingAnimationColorName": "White"
+    }
+]

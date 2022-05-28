@@ -1,0 +1,26 @@
+{
+    "Name": "Advanced Charcoal Kiln",
+    "Description": "Takes longer to produce charcoal than the regular kiln, but it produces more charcoal per wood.",
+    "Price": 0,
+    "ProvidesLight": false,
+    "ReserveExtraIndexCount": 5,
+    "Recipe": {
+        "ResultCount": 1,
+        "Ingredients": [
+            {
+                "Object": 390,
+                "Count": 10
+            },
+            {
+                "Object": 709,
+                "Count": 3
+            },
+            {
+                "Object": 336,
+                "Count": 1
+            }
+        ],
+        "SkillUnlockName": "Foraging",
+        "SkillUnlockLevel": 8
+    }
+}

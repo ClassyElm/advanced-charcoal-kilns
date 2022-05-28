@@ -1,0 +1,15 @@
+﻿[
+    {
+        "ProducerName": "Advanced Charcoal Kiln",
+        "AlternateFrameProducing": false,
+        "AlternateFrameWhenReady": false,
+        "DisableBouncingAnimationWhileWorking": false,
+        "ProducingAnimation": {
+            "RelativeFrameIndex": [1, 2, 3, 4],
+            "FrameInterval": 10
+        },
+        "ReadyAnimation": {
+            "RelativeFrameIndex": [5]
+        }
+    }
+]

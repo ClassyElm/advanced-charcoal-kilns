@@ -1,0 +1,17 @@
+﻿{
+    "Name": "[PFM] Advanced Charcoal Kilns",
+    "Author": "ClassyElm",
+    "Version": "1.0.0",
+    "Description": "Adds producing rules for Advanced Charcoal Kilns to function as machines.",
+    "UniqueID": "ClassyElm.PFM.AdvancedCharcoalKiln",
+    "UpdateKeys": ["Nexus:????"],
+    "Dependencies": [
+        {
+            "UniqueID": "ClassyElm.JA.AdvancedCharcoalKiln",
+            "IsRequired": true
+        }
+    ],
+    "ContentPackFor": {
+        "UniqueID": "DIGUS.ProducerFrameworkMod"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "[JA] Advanced Charcoal Kilns",
+    "Author": "ClassyElm",
+    "Version": "1.0.0",
+    "Description": "Adds a new charcoal kiln craftable object.",
+    "UniqueID": "ClassyElm.JA.AdvancedCharcoalKiln",
+    "UpdateKeys": ["Nexus:9617"],
+    "ContentPackFor": {
+        "UniqueID": "spacechase0.JsonAssets"
+    }
+}
