@@ -1,4 +1,4 @@
 {
-    "item.advanced-charcoal-kiln.name": "Advanced Charcoal Kiln",
-    "item.advanced-charcoal-kiln.description": "Takes longer to produce charcoal than the regular kiln, but it produces more charcoal per wood."
+    "item.advanced-charcoal-kiln.name": "Улучшенная Углевыжигательная Печь",
+    "item.advanced-charcoal-kiln.description": "Затрачивает вдвое больше времени, взамен производит 4 угля. Также в печи возможно сжигать твёрдую древесину."
 }
