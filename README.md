@@ -23,4 +23,4 @@ Here is a list of languages the mod currently supports. If you would like to add
 |Turkish|No support|
 
 ## Credits
-* mukers - Russian translation
+* [mukers](https://www.nexusmods.com/users/147297168) - Russian translation
