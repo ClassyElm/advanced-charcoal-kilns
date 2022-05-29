@@ -21,3 +21,6 @@ Here is a list of languages the mod currently supports. If you would like to add
 |Korean|No support|
 |Portuguese|No support|
 |Turkish|No support|
+
+## Credits
+* mukers - Russian translation
