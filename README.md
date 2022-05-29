@@ -10,8 +10,8 @@ Here is a list of languages the mod currently supports. If you would like to add
 |Language|Status|
 |-|-|
 |English|Full support|
+|Russian|Full support|
 |Spanish|No support|
-|Russian|No support|
 |German|No support|
 |Chinese|No support|
 |French|No support|
